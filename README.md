@@ -1,37 +1,71 @@
-<!-- PREMIUM BANNER -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Ravivarma%20P&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Salesforce%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ravivarma%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Salesforce%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Builder&descAlignY=70" />
 </p>
 
-<!-- TYPING -->
+<!-- ================= TYPING ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Salesforce+Developer;Omnistudio+Expert;Full+Stack+Engineer;Building+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Salesforce+Developer;Omnistudio+Specialist;Full+Stack+Engineer;AI+Builder;Future+Product+Engineer" />
+</p>
+
+<!-- ================= SOCIAL ================= -->
+
+<p align="center">
+  <a href="mailto:ravivarma6110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ravivarma-p-6b18642b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ravivarma1Ravi&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
 # 👋 Hey, I'm Ravivarma
 
-💼 **Salesforce Developer | Omnistudio Specialist | Full Stack Developer**
-🎓 B.E ECE (2021–2025)
+💼 **Salesforce Developer | Omnistudio Expert | Full Stack Engineer**
+🎓 **B.E Electronics & Communication (2021–2025)**
 
 ---
 
-## 🚀 About Me
+## 🔥 About Me
 
-* 🔥 Building real-world scalable applications
-* ⚡ Expert in Salesforce (Apex, LWC, Omnistudio)
-* 🌐 Developing full-stack + AI-integrated systems
-* 🎯 Focused on cracking top product-based companies
+* 🚀 Building scalable **Salesforce + Web applications**
+* ⚡ Strong in **Apex, LWC, Omnistudio**
+* 🌐 Creating **Full Stack + AI integrated systems**
+* 🧠 Focused on **DSA + System Design**
+* 🎯 Goal: Crack **top product-based companies**
 
 ---
 
 ## 🧠 Tech Stack
 
+### ⚡ Salesforce (Primary Skill)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,git,github" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Omnistudio-1b96ff?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</p>
+
+---
+
+### 💻 Programming & Web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -52,38 +86,33 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravivarma1Ravi&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravivarma1Ravi&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Portfolio Website** – Personal branding & projects showcase
-🔹 **Salesforce Volunteer System** – Full CRM solution
+🔹 **Portfolio Website** – Personal branding
+🔹 **Salesforce Volunteer Management System** – CRM solution
 🔹 **AI Chatbot System** – Automation + NLP
-🔹 **CubeSat Weather Project** – Space-tech innovation
+🔹 **CubeSat Weather Forecast Project** – Space-tech
 
 ---
 
-## 📫 Connect
+## 💡 Currently Working On
 
-<p align="center">
-  <a href="mailto:ravivarma6110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ravivarma-p-6b18642b6">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+* 🔧 AI + Salesforce Integration
+* 🌍 Full Stack Applications
+* 📊 System Design
 
 ---
 
-## 👁️ Visitors
+## 📚 Learning
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravivarma1Ravi&color=blueviolet" />
-</p>
+* Advanced JavaScript
+* Backend Architecture
+* Data Structures & Algorithms
 
 ---
 
@@ -95,4 +124,14 @@
 
 ---
 
-🔥 *“Consistency beats talent when talent doesn’t work hard.”*
+## ⚡ Fun Fact
+
+💬 I turn ideas into real-world applications 🚀
+
+---
+
+## 🌟 Quote
+
+🔥 *"Consistency + Skills = Unstoppable Developer"*
+
+---
