@@ -103,9 +103,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4NmUyYjM4YjYyYjM4YjYyYjM4YjYyYjM4YjYyYjM4YjYyJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKUIwUuY0/giphy.gif" width="100" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="120" />
       <br />
-      <b>Current Status:</b> Optimizing Salesforce x AI Architectures
+      <b>Current Status:</b> Pioneering Next-Gen Salesforce x AI Architectures
     </td>
   </tr>
 </table>
