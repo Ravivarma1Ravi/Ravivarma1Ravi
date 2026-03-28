@@ -1,25 +1,25 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ravivarma%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Salesforce%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Builder&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Ravivarma%20P&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Salesforce%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=70" />
 </p>
 
 <!-- ================= TYPING ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Salesforce+Developer;Omnistudio+Specialist;Full+Stack+Engineer;AI+Builder;Future+Product+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Salesforce+Developer;Omnistudio+Specialist;Full+Stack+Engineer;AI+Builder;Open+to+Opportunities" />
 </p>
 
-<!-- ================= SOCIAL ================= -->
+<!-- ================= CONTACT ================= -->
 
 <p align="center">
   <a href="mailto:ravivarma6110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ravivarma-p-6b18642b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ravivarma1Ravi&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Ravivarma1Ravi&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -27,23 +27,22 @@
 # 👋 Hey, I'm Ravivarma
 
 💼 **Salesforce Developer | Omnistudio Expert | Full Stack Engineer**
-🎓 **B.E Electronics & Communication (2021–2025)**
+🎓 **B.E ECE (2021–2025)**
 
 ---
 
 ## 🔥 About Me
 
-* 🚀 Building scalable **Salesforce + Web applications**
-* ⚡ Strong in **Apex, LWC, Omnistudio**
-* 🌐 Creating **Full Stack + AI integrated systems**
-* 🧠 Focused on **DSA + System Design**
-* 🎯 Goal: Crack **top product-based companies**
+* 🚀 2+ Salesforce projects (Apex, LWC, Omnistudio)
+* ⚡ Strong in CRM solutions & automation
+* 🌐 Building full-stack + AI-based applications
+* 🎯 Actively seeking developer opportunities
 
 ---
 
 ## 🧠 Tech Stack
 
-### ⚡ Salesforce (Primary Skill)
+### ⚡ Salesforce (Core)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
@@ -52,17 +51,13 @@
   <img src="https://img.shields.io/badge/Omnistudio-1b96ff?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </p>
 
----
-
-### 💻 Programming & Web
+### 💻 Web & Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs" />
 </p>
 
----
-
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -70,15 +65,41 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🔹 Salesforce Volunteer Management System
+
+* Built CRM solution using Apex & LWC
+* Automated event & volunteer tracking
+* Implemented real-time data handling
+
+### 🔹 AI Chatbot System
+
+* Developed chatbot with automation
+* Integrated frontend + backend logic
+* Used APIs for intelligent responses
+
+### 🔹 Portfolio Website
+
+* Responsive UI with modern design
+* Showcases projects & skills
+
+### 🔹 CubeSat Weather Project
+
+* Space-tech based forecasting system
+* Data processing & prediction model
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravivarma1Ravi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravivarma1Ravi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravivarma1Ravi&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravivarma1Ravi&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravivarma1Ravi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Ravivarma1Ravi&theme=tokyonight" />
 </p>
 
 ---
@@ -86,52 +107,24 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravivarma1Ravi&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravivarma1Ravi&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Portfolio Website** – Personal branding
-🔹 **Salesforce Volunteer Management System** – CRM solution
-🔹 **AI Chatbot System** – Automation + NLP
-🔹 **CubeSat Weather Forecast Project** – Space-tech
 
 ---
 
 ## 💡 Currently Working On
 
-* 🔧 AI + Salesforce Integration
-* 🌍 Full Stack Applications
-* 📊 System Design
+* Salesforce + AI Integration
+* Full Stack Projects
+* DSA Practice
 
 ---
 
-## 📚 Learning
+## 📫 Reach Me
 
-* Advanced JavaScript
-* Backend Architecture
-* Data Structures & Algorithms
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ravivarma1Ravi/Ravivarma1Ravi/output/github-contribution-grid-snake.svg" />
-</p>
+📧 [ravivarma6110@gmail.com](mailto:ravivarma6110@gmail.com)
+🔗 LinkedIn: linkedin.com/in/ravivarma-p-6b18642b6
 
 ---
 
-## ⚡ Fun Fact
-
-💬 I turn ideas into real-world applications 🚀
-
----
-
-## 🌟 Quote
-
-🔥 *"Consistency + Skills = Unstoppable Developer"*
-
----
+🔥 *"I don’t just learn — I build real-world systems."*
