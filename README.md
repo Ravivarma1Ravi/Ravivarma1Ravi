@@ -1,130 +1,115 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= APPLE-STYLE HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Ravivarma%20P&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Salesforce%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:000000&height=200&section=header&text=Ravivarma%20P&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ================= TYPING ================= -->
+<!-- ================= SUBTITLE ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Salesforce+Developer;Omnistudio+Specialist;Full+Stack+Engineer;AI+Builder;Open+to+Opportunities" />
+  <b>Salesforce Developer · Full Stack Engineer · AI Builder</b>
 </p>
 
-<!-- ================= CONTACT ================= -->
-
 <p align="center">
-  <a href="mailto:ravivarma6110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ravivarma-p-6b18642b6">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ravivarma1Ravi&style=for-the-badge&color=blue" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=AAAAAA&size=18&center=true&vCenter=true&width=500&lines=Building+clean+and+scalable+systems;Focused+on+product-based+companies;Always+learning+and+shipping" />
 </p>
 
 ---
 
-# 👋 Hey, I'm Ravivarma
+## 👨‍💻 Profile
 
-💼 **Salesforce Developer | Omnistudio Expert | Full Stack Engineer**
-🎓 **B.E ECE (2021–2025)**
-
----
-
-## 🔥 About Me
-
-* 🚀 2+ Salesforce projects (Apex, LWC, Omnistudio)
-* ⚡ Strong in CRM solutions & automation
-* 🌐 Building full-stack + AI-based applications
-* 🎯 Actively seeking developer opportunities
+```yaml id="z1f3h2"
+name: Ravivarma P
+role: Salesforce Developer
+focus: Full Stack + AI Systems
+status: Open to Opportunities
+```
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Tech Stack
 
-### ⚡ Salesforce (Core)
+### Salesforce (Primary)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Omnistudio-1b96ff?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-111111?style=for-the-badge&logo=salesforce"/>
+  <img src="https://img.shields.io/badge/Apex-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LWC-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Omnistudio-111111?style=for-the-badge"/>
 </p>
 
-### 💻 Web & Programming
+### Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs" />
 </p>
 
-### 🛠️ Tools
+### Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Work
 
-### 🔹 Salesforce Volunteer Management System
+### Salesforce Volunteer System
 
-* Built CRM solution using Apex & LWC
-* Automated event & volunteer tracking
-* Implemented real-time data handling
+Clean CRM automation using Apex + LWC
 
-### 🔹 AI Chatbot System
+### AI Chatbot
 
-* Developed chatbot with automation
-* Integrated frontend + backend logic
-* Used APIs for intelligent responses
+Automation + API-based responses
 
-### 🔹 Portfolio Website
+### Portfolio Website
 
-* Responsive UI with modern design
-* Showcases projects & skills
+Minimal UI with responsive design
 
-### 🔹 CubeSat Weather Project
+### CubeSat Weather System
 
-* Space-tech based forecasting system
-* Data processing & prediction model
+Data-driven forecasting project
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravivarma1Ravi&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravivarma1Ravi&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ravivarma1Ravi&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravivarma1Ravi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravivarma1Ravi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ravivarma1Ravi&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧠 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravivarma1Ravi&theme=tokyonight" />
+* Salesforce + AI integration
+* Full stack systems
+* Data structures & problem solving
+
+---
+
+## 📬 Contact
+
+<p align="left">
+  <a href="mailto:ravivarma6110@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/ravivarma-p-6b18642b6">LinkedIn</a>
 </p>
 
 ---
 
-## 💡 Currently Working On
+## 🐍 Activity
 
-* Salesforce + AI Integration
-* Full Stack Projects
-* DSA Practice
-
----
-
-## 📫 Reach Me
-
-📧 [ravivarma6110@gmail.com](mailto:ravivarma6110@gmail.com)
-🔗 LinkedIn: linkedin.com/in/ravivarma-p-6b18642b6
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ravivarma1Ravi/Ravivarma1Ravi/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-🔥 *"I don’t just learn — I build real-world systems."*
+## ✨ Philosophy
+
+> Build simple. Scale smart. Stay consistent.
